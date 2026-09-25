@@ -1,0 +1,65 @@
+title: Fresh Faces 4 ( Optional Crown )
+description: Grants sora an Ukraine Themed Gold Crwon instead ot the regular.
+assets:
+#
+- name: remastered\obj\P_EX100.mdlx\-6.dds
+  multi: 
+  - name: remastered\obj\ACTOR_SORA.mdlx\-6.dds
+  - name: remastered\obj\AL14_PLAYER.mdlx\-6.dds
+  - name: remastered\obj\DEAD_BOSS.mdlx\-6.dds
+  - name: remastered\obj\LAST_ATTACKER.mdlx\-6.dds
+  - name: remastered\obj\LAST_GIMMICK.mdlx\-6.dds
+  - name: remastered\obj\LAST_HITMARK.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_AL_CARPET.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_LAST.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_MEMO.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_NPC.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_SIDECAR.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_WM.mdlx\-6.dds
+  - name: remastered\obj\PLAYER.mdlx\-6.dds
+  - name: remastered\obj\PO06_PLAYER.mdlx\-6.dds
+  - name: remastered\obj\PO07_PLAYER.mdlx\-6.dds
+  - name: remastered\obj\PO08_PLAYER.mdlx\-6.dds
+  - name: remastered\obj\WM_EX100.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_KH1F.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_BTLF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_MAGF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_TRIF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_ULTF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_HTLF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_HTLF_BTL.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_NM_BTLF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_NM_MAGF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_NM_KH1F.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_NM_TRIF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_NM_ULTF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_NM_HTLF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_XM_BTLF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_XM_MAGF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_XM_KH1F.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_XM_TRIF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_XM_ULTF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_XM_HTLF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_TR_BTLF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_TR_MAGF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_TR_KH1F.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_TR_TRIF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_TR_ULTF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_TR_HTLF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_TR_HTLF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_WI_BTLF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_WI_MAGF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_WI_KH1F.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_WI_TRIF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_WI_ULTF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_WI_HTLF.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_XM.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_TR.mdlx\-6.dds
+  - name: remastered\obj\TR_PLAYER.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_TR_LIGHTCYCLE.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_WI.mdlx\-6.dds
+  - name: remastered\obj\P_EX100_NM.mdlx\-6.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures\Crown\-6.dds
